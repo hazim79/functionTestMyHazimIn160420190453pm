@@ -1,0 +1,7 @@
+C:\Users\maxpl\source\repos\functionTestMyHazimIn160420190453pm\bin\Debug\functionTestMyHazimIn160420190453pm.exe.config
+C:\Users\maxpl\source\repos\functionTestMyHazimIn160420190453pm\bin\Debug\functionTestMyHazimIn160420190453pm.exe
+C:\Users\maxpl\source\repos\functionTestMyHazimIn160420190453pm\bin\Debug\functionTestMyHazimIn160420190453pm.pdb
+C:\Users\maxpl\source\repos\functionTestMyHazimIn160420190453pm\obj\Debug\functionTestMyHazimIn160420190453pm.csprojAssemblyReference.cache
+C:\Users\maxpl\source\repos\functionTestMyHazimIn160420190453pm\obj\Debug\functionTestMyHazimIn160420190453pm.csproj.CoreCompileInputs.cache
+C:\Users\maxpl\source\repos\functionTestMyHazimIn160420190453pm\obj\Debug\functionTestMyHazimIn160420190453pm.exe
+C:\Users\maxpl\source\repos\functionTestMyHazimIn160420190453pm\obj\Debug\functionTestMyHazimIn160420190453pm.pdb
